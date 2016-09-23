@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://sageschmied.github.io
 title: Archaeological Skipping Stones
-tagline: From Lithics to Everything In between 
+tagline: From Lithics to Everything In Between 
 description: A blog celebrating the realm of digital archaeology through the creation of websites dedicated to the sharing of archaeological knowledge
 paginate: 5
