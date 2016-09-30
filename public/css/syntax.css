@@ -11,7 +11,7 @@
 .gd { background-color: #FFCCCC; border: 1px solid #CC0000 } /* Generic.Deleted */
 .ge { font-style: italic } /* Generic.Emph */
 .gr { color: #FF0000 } /* Generic.Error */
-.gh { color: #003300; } /* Generic.Heading */
+.gh { color: #b3ffff; } /* Generic.Heading */
 .gi { background-color: #CCFFCC; border: 1px solid #00CC00 } /* Generic.Inserted */
 .go { color: #AAAAAA } /* Generic.Output */
 .gp { color: #000099; } /* Generic.Prompt */
