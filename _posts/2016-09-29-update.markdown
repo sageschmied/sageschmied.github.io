@@ -1,0 +1,9 @@
+---
+published: true
+title: Update...
+layout: post
+---
+So I have been messing around with the blog on GitHub, trying to make it pretty and to have some photos and cool elements. Its been difficult trying to figure out where specific things are supposed to go within the premade code. So far I am having the challenge of changing my font color so it is readable with the new background. Hopefully ill figure it out soon! I have been in the process of thinking about my website and getting it all worked out in my mind before I start fouling around with it. Right now, the focus is on having elements of visualization like timelines and databases that will work with the website down the road! That is where I am at right now, just wanted to give a quick update and let you know that it is coming! I am excited for this to work out, and for the end result of my project! 
+Thanks for Reading
+Sage
+The Creator
