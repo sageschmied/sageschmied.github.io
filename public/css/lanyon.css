@@ -304,6 +304,7 @@ a.sidebar-nav-item:focus {
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
+  background-color: #fff;
 }
 
 /* Blog post or page title */
