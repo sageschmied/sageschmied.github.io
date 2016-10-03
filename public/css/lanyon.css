@@ -299,7 +299,11 @@ a.sidebar-nav-item:focus {
 .page,
 .post {
   margin-bottom: 4em;
-  color: #000000;
+  color: #000000; 
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
 }
 
 /* Blog post or page title */
