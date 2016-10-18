@@ -1,0 +1,13 @@
+---
+published: true
+title: Visualization Complete
+layout: post
+---
+So my visualization tools are done and up and running. I choose to go a voyant word web to represent my terms. I created two, one for all the content on the website and another for the terms that I wrote up for my terms page. I thought voyant was a good choice for my term visualization because it was the easiest for uploading texts and had a lot of options for text visualization. However, it was not exactly what I wanted, as I was hoping for a more interactive option with a word web that would allow the user to click on a word and then the definition would pop up or a picture of the word that was being discussed. It does not really communicate that just the frequency of words and that is cool but not as important as understanding what the words mean. I then used Timeline JS to create a timeline of the stone tool traditions. I like how this turned out and it was exactly what I was envisioning for this. I had hoped to create a timeline of how a stone tool is made but that was impossible to create in the Timeline JS format. Overall I think it adds more of an element to the home page (since there was just white space where I put it) and it communicates some interesting information to viewers that is extra to what my site has to offer. I thought the timeline format was a good idea because it allowed the visualization of how stone tools are changed and have been different in different areas and over different times. I also used Piktochart to create an infographic on telling stone tools apart from rocks. I thought this was a good format for looking at how tools are different from rocks because it has a flow and it is made in a way that allows a lot of summary information that hopefully has a take away for the reader. It is also visually appealing and less just paragraphs of text which is hopefully easier to pay attention to. The neat thing is that it can be printed out which is helpful as the idea is it can be a sort of guide for understanding stone tools versus rocks. Also, besides these elements, I fixed my navigation so my menu works on all the pages now, and I have a references page that can be found when clicking on the references button. This blog is also linked to my website and you can get here by pressing the Lithic Blog button after the title.  
+I also added some more pretty elements..
+well here it is so far: 
+https://sageschmied.github.io/lithic-website-trial/home.html 
+Enjoy! 
+Thanks for Reading
+Sage 
+The Creator
