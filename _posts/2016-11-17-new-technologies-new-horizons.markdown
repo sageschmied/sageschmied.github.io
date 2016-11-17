@@ -1,0 +1,10 @@
+---
+published: true
+title: New Technologies...New Horizons
+layout: post
+---
+There are a lot of new technologies and some not quite as new ones being used in archaeology today. Although there are a lot of benefits and cool things that can come from these technologies, I can not help but wonder about whether there is a line being crossed with them. For, example by using old photographs taken of an object, a 3D model may be able to be created. This is really cool, and interesting to see, especially if this item has been lost or if it is unable to be processed further. However, there are cases of items receiving a sacred status and a ban being placed on photos of that item. Is it therefore right to use the old photographs and create 3D models, if the item can no longer be viewed in this way? Even though these photographs or the data collected from this thing are from before the ban being placed on it, should we not respect the wishes of the people who deem it sacred? 
+These were the questions that came up for me, because it feels like as archaeologists we want to respect and uphold heritage conservation/preservation acts, however we tend to also find loopholes so that we can still work with the data we want to work with. I think that for a long time we have justified actions and are still justifying actions that we need to take a minute and consider what it may mean. Just because there was consent at some point does not mean we can use that information if there is no longer consent. Also, items that are to be repatriated may be put through laser scanning or 3D imaging in order to create records and copies of these things that are meant to go back to their original homes. For something that was never meant to be in these places in the first place, why is it necessary to create these databases? Even though there may be consent, it does not seem like our place to know that information or to catalog it in such a way because it was never ours to begin with. 
+Anyways that was my rant for today, and something that I have been thinking about! 
+Thanks for Reading, 
+Sage S. 
