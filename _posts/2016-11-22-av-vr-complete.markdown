@@ -1,0 +1,10 @@
+---
+published: true
+title: AV/VR complete
+layout: post
+---
+I finished my Twine and it is now up on my website. I think it does a good job of being interactive but also communicating lithics in an engaging way. By having the simple format it allowed me to easily create something that is controlled by the viewer and also engages them in what they are seeing. I definitely wish I had spent more time on the CSS portion and making my Twine look nicer. I just spent too much time on the actual writing and HTML stuff, but I also was worried about going overboard and making the screen too full of stuff and hard to read. It would have been really nice to have more like audio and visual too. My twine was actually supposed to just be another tool and task, as I was going to do 123D catch instead for my portfolio but that did not work out for me in the time frame. I unfortunately had other things going on too that inhibited my working on this project. However, Twine does make it easy to create things that are engaging, and I think the quiz element of my Twine reiterates what the message is of my overall Twine and the whole thing fits nicely in my blog. I think it is successful because it is communicating knowledge in a fun way, knowledge that is not well known or talked about either. It also is engaging and has a few different elements, like video and the quiz at the end to maintain interest. Which to me means it is a successful digital archaeology thing. 
+I like that I was able to set up twine in a narrative sort of way, and that it is mimicking a tv show. There is more to it this way then just like a few 3D models, however I still would like to complete those too. I had some trouble uploading the twine to my website, hopefully it works now but it may be only visible in google chrome. It can be found under the types of tools tab on my website: https://sageschmied.github.io/lithic-website-trial/typesoftools.html 
+Also, my github html document for my twine: https://github.com/sageschmied/lithic-website-trial/blob/gh-pages/archaeology!!!.html 
+Thanks for Reading, 
+Sage
